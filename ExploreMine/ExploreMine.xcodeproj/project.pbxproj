@@ -945,7 +945,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.silstone.exploremine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/silstone/Documents/Vinay/iOS_Projects/ExploreMine_iOS/ExploreMine/ExploreMine-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/silstone/Documents/Projects/iOS/Explore Mine/ExploreMine/ExploreMine-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -966,7 +966,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.silstone.exploremine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/silstone/Documents/Vinay/iOS_Projects/ExploreMine_iOS/ExploreMine/ExploreMine-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/silstone/Documents/Projects/iOS/Explore Mine/ExploreMine/ExploreMine-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
